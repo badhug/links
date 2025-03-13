@@ -2,3 +2,4 @@ pagina de links de estudio
 
 marzo 2025
 
+https://nginx.org/en/docs/beginners_guide.html
