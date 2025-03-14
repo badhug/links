@@ -2,7 +2,20 @@ pagina de links de estudio
 
 2025
 
+Redes
+https://exams.boson.com/exam/26eb6b9e-58f1-ef11-811c-000d3a176bc1/25
+https://www.netacad.com/es/courses/ccnp-enterprise-core-networking?courseLang=en-US
+https://drive.labhub.eu.org/0:search?q=iosv
+https://aodbc.wordpress.com/2012/11/27/ieee-802-1ad-i/
+
+https://www.isecprep.com/   revisar
+
+fortinet
+https://training.fortinet.com/course/view.php?id=59786
+
 devops
+https://prelms.litethinking.com/en/login
+https://docs.docker.com/?_gl=1*4b4ad7*_gcl_au*MTI5MTU1MzQyNS4xNzQwNzg5MDI3*_ga*MTg2Nzg3NTgyMS4xNzQwMjg1MTk3*_ga_XJWPQMJYHQ*MTc0MTkxOTE2MC4xMS4wLjE3NDE5MTkxNjAuNjAuMC4w
 https://nginx.org/en/docs/beginners_guide.html
 https://minikube.sigs.k8s.io/docs/
 https://nginx.org/
@@ -15,6 +28,11 @@ python
 https://github.com/Asabeneh/30-Days-Of-Python
 https://es.python.org/aprende-python/
 https://www.codedex.io/python/13-ph-levelsG
+https://docs.python.org/es/3/tutorial/
 
+
+cursos intecap
+https://cursos.intecap.edu.gt/CursosDetalle.aspx?ide=579&IDUO=104106&p=0
+https://cursos.intecap.edu.gt/CursosDetalle.aspx?ide=16450&IDUO=104129&p=0
 
 .......
