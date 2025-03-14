@@ -1,7 +1,8 @@
 pagina de links de estudio
 
-marzo 2025
+2025
 
+devops
 https://nginx.org/en/docs/beginners_guide.html
 https://minikube.sigs.k8s.io/docs/
 https://nginx.org/
@@ -10,7 +11,7 @@ https://learn.microsoft.com/es-es/plans/6ey7h68p2zk3j2
 https://azure.microsoft.com/es-es/solutions/devops/tutorial
 https://www.netmentor.es/libros/construyendo-sistemas-distribuidos
 
-
+python
 https://github.com/Asabeneh/30-Days-Of-Python
 https://es.python.org/aprende-python/
-https://www.codedex.io/python/13-ph-levels
+https://www.codedex.io/python/13-ph-levelsG
